@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "730231301764",
+    "firebase_url": "https://partyrental-374a3.firebaseio.com",
+    "project_id": "partyrental-374a3",
+    "storage_bucket": "partyrental-374a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730231301764:android:6aef6ad43fc11e9cbd44d1",
+        "android_client_info": {
+          "package_name": "com.example.partyrental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730231301764-jh0nl9du53f4gtkp1irdas5rakrfqsgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtNhSrFfv3z2wka7U39N7TMSXLa-m_-2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730231301764-jh0nl9du53f4gtkp1irdas5rakrfqsgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

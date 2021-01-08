@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/zupanije"
+        android:title="Zupanije">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/countyall"
+                    android:title="Sve" />
+                <item
+                    android:id="@+id/county1"
+                    android:title="Bjelovarsko-bilogorska" />
+                <item
+                    android:id="@+id/county2"
+                    android:title="Brodsko-posavska" />
+                <item
+                    android:id="@+id/county3"
+                    android:title="Grad Zagreb" />
+                <item
+                    android:id="@+id/county4"
+                    android:title="Istarska" />
+                <item
+                    android:id="@+id/county5"
+                    android:title="Karlovačka" />
+                <item
+                    android:id="@+id/county6"
+                    android:title="Koprivničko-križevačka" />
+                <item
+                    android:id="@+id/county7"
+                    android:title="Krapinsko-zagorska" />
+                <item
+                    android:id="@+id/county8"
+                    android:title="Ličko-senjska" />
+                <item
+                    android:id="@+id/county9"
+                    android:title="Međimurska" />
+                <item
+                    android:id="@+id/county10"
+                    android:title="Osječko-baranjska" />
+                <item
+                    android:id="@+id/county11"
+                    android:title="Požeško-slavonska" />
+                <item
+                    android:id="@+id/county12"
+                    android:title="Primorsko-goranska" />
+                <item
+                    android:id="@+id/county13"
+                    android:title="Sisačko-moslavačka" />
+                <item
+                    android:id="@+id/county14"
+                    android:title="Splitsko-dalmatinska" />
+                <item
+                    android:id="@+id/county15"
+                    android:title="Šibensko-kninska" />
+                <item
+                    android:id="@+id/county16"
+                    android:title="Varaždinska" />
+                <item
+                    android:id="@+id/county17"
+                    android:title="Virovitičko-podravska" />
+                <item
+                    android:id="@+id/county18"
+                    android:title="Vukovarsko-srijemska" />
+                <item
+                    android:id="@+id/county19"
+                    android:title="Zadarska" />
+                <item
+                    android:id="@+id/county20"
+                    android:title="Zagrebačka" />
+            </group>
+        </menu>
+    </item>
+</menu>

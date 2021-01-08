@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Login.WelcomeFragment"
+    android:background="@drawable/party_house">
+    <TextView
+        android:id="@+id/welcome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/roboto"
+        android:text="Dobro došli u RENTA"
+        android:gravity="center"
+        android:layout_marginTop="120dp"
+        android:textSize="36dp"
+        android:textStyle="bold"
+        android:layout_marginHorizontal="50dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/roboto"
+        android:layout_below="@+id/welcome"
+        android:padding="20dp"
+        android:text="Rezervirajte ili iznajmite stambeni objekt.\n\nZa rezevraciju je potrebno verificirati broj mobilnog telefona putem SMS-a te verificirati e-mail adresu"
+        android:layout_marginTop="20dp"
+        android:textSize="20dp"
+        android:background="@drawable/text_border"
+        android:textStyle="bold"
+        android:layout_marginHorizontal="20dp"/>
+
+
+</RelativeLayout>

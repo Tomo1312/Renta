@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="zupanije">
+        <item>Bjelovarsko-bilogorska</item>
+        <item>Brodsko-posavska</item>
+        <item>Grad Zagreb</item>
+        <item>Istarska</item>
+        <item>Karlovačka</item>
+        <item>Koprivničko-križevačka</item>
+        <item>Krapinsko-zagorska</item>
+        <item>Ličko-senjska</item>
+        <item>Međimurska</item>
+        <item>Osječko-baranjska</item>
+        <item>Požeško-slavonska</item>
+        <item>Primorsko-goranska</item>
+        <item>Sisačko-moslavačka</item>
+        <item>Splitsko-dalmatinska</item>
+        <item>Šibensko-kninska</item>
+        <item>Varaždinska</item>
+        <item>Virovitičko-podravska</item>
+        <item>Vukovarsko-srijemska</item>
+        <item>Zadarska</item>
+        <item>Zagrebačka</item>
+    </string-array>
+</resources>

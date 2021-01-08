@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Login.EnterNumberFragment">
+    <!--android:background="@drawable/party_house"-->
+
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="40dp"
+        android:hint="PHONE NUMBER (+385912345678)"
+        android:layout_gravity="center"
+        android:background="@drawable/button_border_gray"
+        android:padding="20dp"
+        android:inputType="phone"
+        android:id="@+id/txt_phone_number"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="40dp"
+        android:textColor="@color/alert"
+        android:gravity="center"
+        android:fontFamily="@font/roboto"
+        android:visibility="gone"
+        android:textSize="18dp"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/txt_phone_number"
+        android:id="@+id/txt_message"/>
+
+</FrameLayout>

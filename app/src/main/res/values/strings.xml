@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PartyRental</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_to_price">kn/noc</string>
+    <string name="reservation">rezerviraj</string>
+    <string name="start_date">Izaberite prvi datum rezervacije</string>
+    <string name="end_date">Izaberite zadnji dan rezervacije</string>
+    <string name="confirm">Potvrdi</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="login_failed">Login failed</string>
+    <string name="empty_text_views">Popunite sva područja</string>
+    <string name="empty_otp">Popunite područje!</string>
+    <string name="invalid_password">Kriva sifra</string>
+    <string name="email_verification">Poslan Vam je e-mail za potvrdu!</string>
+    <string name="add_images">Dodaj slike</string>
+    <string name="drawer_closed">drawer_closed</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="save_changes">Spremi promjene</string>
+    <string name="create_house">Stvorite vlastitu kucu za najam!</string>
+    <string name="login_description">Rezervirajte i stavite kuću u najam. Jedno, drugo, a može i oboje!\n
+        Za registraciju je potrebno prvo verificirati broj mobilnog telefona te nakon što se napravi
+        registracija verificirati e-mail. Da možete ući u aplikaciju potrebno je obje radnje završiti</string>
+    <string name="wrong_otp">Krivi kod za potvrdu!</string>
+    <string name="success">Uspješna potvrda!</string>
+</resources>
